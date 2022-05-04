@@ -1,3 +1,7 @@
+04/05/2022
+Fabrício Dalvi Venturim
+FGV - Fundação Getulio Vargas
+
 A ideia desse estudo estatístico é pegar a planilha Atividade1-ITSalarySurveyEU 2020 e fazer várias análises unidimencionais e bidimencionaispara treinar da estatística e análise. O trabalho foi desenvolvido seguindo as seguintes regras:
 
 a) Limpeza dos dados
